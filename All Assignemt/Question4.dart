@@ -1,7 +1,7 @@
 /*
 // 1. Create a list of names and print all names using list.
 void question1() {
-  List<String> names = ["Shadman", "Rahim", "Karim", "Hasan"];
+  List<String> names = ["Mayda", "Rahim", "Karim", "Hasan"];
   for (String name in names) {
     print(name);
   }
