@@ -2,7 +2,7 @@ import 'dart:math';
 // 1. Write a program in Dart to print your own name using function.
 /*
 void printName() {
-  print("Shadman");
+  print("Mayda");
 }
 void question1() {
   printName();
