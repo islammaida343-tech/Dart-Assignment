@@ -37,7 +37,7 @@ class Book3 {
 }
 
 void q3() {
-  Book3 b = Book3("Dart", "Programming", "Shadman");
+  Book3 b = Book3("Dart", "Programming", "Mayda");
   b.display();
 }
 
