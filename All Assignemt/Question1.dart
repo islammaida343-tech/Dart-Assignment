@@ -3,7 +3,7 @@ import 'dart:io';
 // Write a program to print your name in Dart.
 /*
 void main(){
-  String name="Shaadman Rashid Chy";
+  String name="Mayda";
   print("My name is : $name");
 }
 */
