@@ -50,7 +50,7 @@ void question4() {
 // Use where to find a name that starts with alphabet A.
 void question5() {
   List<String> friends = [
-    "Shadman",
+    "Mayda",
     "Arham",
     "Rahim",
     "Anik",
@@ -72,7 +72,7 @@ void question5() {
 // country and print all keys and values.
 void question6() {
   Map<String, dynamic> person = {
-    "name": "Shadman",
+    "name": "Mayda",
     "address": "Sylhet",
     "age": 22,
     "country": "Bangladesh"
@@ -87,7 +87,7 @@ void question6() {
 // to it. Use where to find all keys that have length 4.
 void question7() {
   Map<String, String> contacts = {
-    "name": "Shadman",
+    "name": "Mayda",
     "phone": "01712345678",
     "city": "Sylhet",
     "email": "sallu@gmail.com"
