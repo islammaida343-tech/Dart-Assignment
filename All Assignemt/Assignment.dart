@@ -188,7 +188,7 @@ class Employee12 extends Person12 {
 }
 
 void q12() {
-  Employee12 e = Employee12("Shadman", 50000);
+  Employee12 e = Employee12("Mayda", 50000);
   e.display();
 }
 
@@ -505,7 +505,7 @@ class Reservation28 {
 }
 
 void q28() {
-  Guest28 g = Guest28("Shadman");
+  Guest28 g = Guest28("Mayda");
   Room28 r = Room28(101);
   Reservation28 res = Reservation28(g, r);
   res.reserve();
@@ -549,7 +549,7 @@ class Library29 {
 
 void q29() {
   LibraryBook29 b = LibraryBook29("Dart Programming");
-  Member29 m = Member29("Shadman");
+  Member29 m = Member29("Mayda");
   Library29 l = Library29([b]);
   print("Member: ${m.name}");
   l.showBooks();
@@ -595,7 +595,7 @@ class Enrollment30 {
 }
 
 void q30() {
-  Student30 s = Student30("Shadman", 101);
+  Student30 s = Student30("Mayda", 101);
   Course30 c = Course30("Dart OOP");
   Enrollment30 e = Enrollment30(s, c);
   s.enroll(c);
