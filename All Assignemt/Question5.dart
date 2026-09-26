@@ -3,7 +3,7 @@ import 'dart:io';
 // 1. Write a dart program to add your name to “hello.txt” file.
 void question1() {
   File file = File("hello.txt");
-  file.writeAsStringSync("Shadman");
+  file.writeAsStringSync("Mayda");
   print("Name added to hello.txt");
 }
 
