@@ -11,7 +11,7 @@ class Student1 {
 }
 
 void q1() {
-  Student1 s = Student1("Shadman", 101, 3.75);
+  Student1 s = Student1("Mayda", 101, 3.75);
   s.display();
 }
 
